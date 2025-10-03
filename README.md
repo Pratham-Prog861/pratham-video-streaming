@@ -58,7 +58,7 @@ This project is a video streaming application built using FFmpeg for video proce
 
 ## Demo Video
 
-<video src="VidSpace.mp4" controls width="600" height="400" style="max-width: 100%;" preload="auto" muted loop />
+<video src="VidSpace.mp4" controls width="600" preload="auto" muted loop></video>
 
 ## Contributing
 
