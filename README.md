@@ -58,7 +58,11 @@ This project is a video streaming application built using FFmpeg for video proce
 
 ## Demo Video
 
-![VidSpace Demo](VidSpace.gif)
+
+https://github.com/user-attachments/assets/4b5a9c83-31df-4390-bf27-f3aa9f2be9e3
+
+
+
 
 ## Contributing
 
