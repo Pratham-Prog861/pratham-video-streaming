@@ -49,6 +49,9 @@ This project is a video streaming application built using FFmpeg for video proce
 - The backend processes videos using FFmpeg and stores them in the `videos/` directory.
 - Stream videos via the provided API endpoints.
 
+## Demo Video 
+<video src="VidSpace.mp4" controls width="600"></video>
+
 ## Contributing
 1. Fork the repository.
 2. Create a feature branch.
